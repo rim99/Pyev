@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/event.c
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/event.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/missing
+END
+event_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/event_compat.h
+END
+ev_kqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev_kqueue.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/aclocal.m4
+END
+ev_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev_win32.c
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/install-sh
+END
+libev.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/libev.m4
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/configure
+END
+ev_poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev_poll.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/Makefile.in
+END
+ev++.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev++.h
+END
+ev_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev_wrap.h
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/config.guess
+END
+update_symbols
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/update_symbols
+END
+ev_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev_select.c
+END
+ev_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev_vars.h
+END
+ev.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev.c
+END
+ev.pod
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev.pod
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/config.sub
+END
+ev_port.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev_port.c
+END
+ev.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev.h
+END
+Symbols.ev
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/Symbols.ev
+END
+import_libevent
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/import_libevent
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/configure.ac
+END
+update_ev_wrap
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/update_ev_wrap
+END
+README.embed
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/README.embed
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/Changes
+END
+Symbols.event
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/Symbols.event
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/autogen.sh
+END
+ev.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev.3
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/LICENSE
+END
+ev_epoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/ev_epoll.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/tags/pyev-trunk-pre-0.7.0/src/libev/config.h.in
+END

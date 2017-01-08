@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/70/tags/pyev-0.9.0/src
+END
+Watcher.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Watcher.c
+END
+Periodic.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Periodic.c
+END
+Prepare.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Prepare.c
+END
+Fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Fork.c
+END
+Io.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Io.c
+END
+Loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Loop.c
+END
+Embed.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Embed.c
+END
+Signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Signal.c
+END
+Async.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Async.c
+END
+Idle.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Idle.c
+END
+Check.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Check.c
+END
+Scheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Scheduler.c
+END
+Timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Timer.c
+END
+Child.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/Child.c
+END
+pyev.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/pyev.c
+END
+PeriodicBase.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/70/tags/pyev-0.9.0/src/PeriodicBase.c
+END

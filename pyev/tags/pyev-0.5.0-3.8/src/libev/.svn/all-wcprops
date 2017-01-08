@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev
+END
+ev.3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev.3
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/autogen.sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/mkinstalldirs
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/LICENSE
+END
+ev_epoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev_epoll.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/config.h.in
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/event.c
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/event.h
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/Makefile.am
+END
+ev_kqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev_kqueue.c
+END
+ev_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev_win32.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/install-sh
+END
+libev.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/libev.m4
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/configure
+END
+ev_poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev_poll.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/Makefile.in
+END
+ev++.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev++.h
+END
+ev_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev_wrap.h
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/config.guess
+END
+ev_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev_select.c
+END
+ev_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev_vars.h
+END
+ev.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev.c
+END
+ev.pod
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev.pod
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ltmain.sh
+END
+ev_port.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev_port.c
+END
+ev.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/ev.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/configure.ac
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/tags/pyev-0.5.0-3.8/src/libev/Changes
+END

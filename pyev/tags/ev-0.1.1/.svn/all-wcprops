@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/5/tags/ev-0.1.1
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/tags/ev-0.1.1/ez_setup.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5/tags/ev-0.1.1/setup.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5/tags/ev-0.1.1/README.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/tags/ev-0.1.1/LICENSE.txt
+END

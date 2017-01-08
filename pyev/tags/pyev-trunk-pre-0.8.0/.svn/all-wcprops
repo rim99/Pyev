@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/57/tags/pyev-trunk-pre-0.8.0
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/57/tags/pyev-trunk-pre-0.8.0/CHANGES.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/57/tags/pyev-trunk-pre-0.8.0/setup.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/57/tags/pyev-trunk-pre-0.8.0/README.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/57/tags/pyev-trunk-pre-0.8.0/MANIFEST.in
+END

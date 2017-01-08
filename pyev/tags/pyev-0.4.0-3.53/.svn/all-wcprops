@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/9/tags/pyev-0.4.0-3.53
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9/tags/pyev-0.4.0-3.53/README.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/tags/pyev-0.4.0-3.53/MANIFEST.in
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/tags/pyev-0.4.0-3.53/CHANGES.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/tags/pyev-0.4.0-3.53/setup.py
+END
+libev_misc_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/tags/pyev-0.4.0-3.53/libev_misc_fixes.patch
+END

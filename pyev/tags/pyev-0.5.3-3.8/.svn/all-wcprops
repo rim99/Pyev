@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/32/tags/pyev-0.5.3-3.8
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/tags/pyev-0.5.3-3.8/README.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/tags/pyev-0.5.3-3.8/MANIFEST.in
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/32/tags/pyev-0.5.3-3.8/CHANGES.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/tags/pyev-0.5.3-3.8/setup.py
+END

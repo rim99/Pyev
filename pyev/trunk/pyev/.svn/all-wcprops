@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/69/trunk/pyev
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/68/trunk/pyev/CHANGES.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/69/trunk/pyev/setup.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/69/trunk/pyev/README.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/67/trunk/pyev/MANIFEST.in
+END

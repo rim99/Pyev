@@ -1,0 +1,4 @@
+data/scripts/regenerate-wrapper.py.i
+data/libev/__init__.py.i
+data/scripts/helloworld.py.i
+data/scripts/ctypes-footer.py.i
